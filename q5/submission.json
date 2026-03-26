@@ -1,0 +1,7 @@
+{
+  "prompt": "A haunting visual metaphor of climate change showing a human lung structure made of forests, where one side is lush green and alive, and the other side is burned, deforested, and filled with smoke. The bronchi resemble branching trees, gradually transitioning into ash and barren land. Tiny human figures are seen walking through the forest side, while the burned side shows abandoned structures and cracked earth. The background fades from vibrant blue sky to a suffocating orange haze. Highly detailed, cinematic lighting, emotionally powerful, magazine-cover quality, no text, no labels, no charts, ultra-realistic, symbolic composition, 4k resolution. Negative prompt: charts, graphs, labels, text, infographic style, axes, legends",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Forest Change Dataset (Hansen et al.)",
+  "dataset_url": "https://earthenginepartners.appspot.com/science-2013-global-forest",
+  "insight": "Deforestation is not just environmental loss but directly linked to the degradation of planetary and human life systems."
+}
